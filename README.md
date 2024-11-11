@@ -22,3 +22,7 @@ Customize sound files or button colors for a unique xylophone experience.
 
 The Xylophone app is an ideal beginner project for exploring audio playback and user interaction in iOS. It demonstrates how to integrate sounds and provides a fun way to create a music-based app with Swift and UIKit.
 
+
+https://github.com/user-attachments/assets/89f7bde8-c5f8-462e-a607-9dbc2ebef707
+
+
